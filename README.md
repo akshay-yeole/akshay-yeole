@@ -24,7 +24,6 @@ With **5 years of experience** as a product software developer, I specialize in 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Entity Framework Core](https://img.shields.io/badge/-EntityFrameworkCore-512BD4?logo=dotnet&logoColor=white&style=flat)
 
 ---
 
