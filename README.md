@@ -9,7 +9,7 @@ With **5 years of experience** as a product software developer, I specialize in 
 ## 🌟 **About Me**
 - 🔭 Currently working on exciting product development projects.
 - 🌱 Always learning and exploring new technologies to enhance my skills.
-- 💬 Ask me about **Angular, .NET, SQL Server**, and everything in between.
+- 🔧 Working on **Angular, .NET, SQL Server, Azure**, and everything in between.
 - 🚀 Passionate about creating seamless user experiences and writing clean, efficient code.
 
 ---
@@ -18,6 +18,7 @@ With **5 years of experience** as a product software developer, I specialize in 
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![.NET](https://img.shields.io/badge/-DotNet-512BD4?logo=dotnet&logoColor=white&style=flat)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
