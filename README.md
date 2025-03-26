@@ -2,7 +2,7 @@
 
 👨‍💻 **Software Developer | Product Enthusiast | Full Stack Specialist**
 
-With **5 years of experience** as a product software developer, I specialize in building scalable and efficient applications using **DotNet Full Stack** technologies. I thrive on solving complex challenges and delivering high-quality software solutions.
+With **5+ years of experience** as a product software developer, I specialize in building scalable and efficient applications using **DotNet Full Stack** technologies. I thrive on solving complex challenges and delivering high-quality software solutions.
 
 ---
 
